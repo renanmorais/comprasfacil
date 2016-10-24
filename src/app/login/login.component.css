@@ -1,0 +1,39 @@
+@media (max-width: 510px) {
+    .name-button {
+        display: none;
+    }
+}
+
+.google {
+    background-color: #f44336;
+}
+
+.twiter {
+    background-color: #1e88e5;
+}
+
+.github {
+    background-color: #616161;
+}
+
+.nav-login {
+    display: inline-block;
+    padding: 32px 48px 0px 48px;
+    border: 1px solid #EEE;
+}
+
+.padding-login {
+    padding: 50px;
+    padding: 32px 48px 0px 48px;
+}
+.card-login{
+    width: 450px;
+    height: 400px;
+    text-align: center;
+    position: absolute;
+    top: calc(35% - 100px);
+    left: calc(50% - 265px);
+}
+md-card{
+    padding: 0px;
+}
